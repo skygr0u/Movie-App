@@ -11,11 +11,11 @@ A web application to browse, search, and view details of movies.
 ## Screenshots
 
 ### Movie List
-![Screenshot](2.png)
-![Screenshot](3.png)
+![Screenshot](public/assets/icon/2.png)
+![Screenshot](public/assets/icon/3.png)
 
 ### Movie Details
-![Screenshot](1.png)
+![Screenshot](public/assets/icon/1.png)
 
 
 ## Installation

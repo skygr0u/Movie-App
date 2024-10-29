@@ -1,0 +1,28 @@
+
+.movie-list {
+  background-color: black;
+  padding: 20px;
+  list-style-type: none; 
+}
+
+.movie-item {
+  display: inline-block; 
+  width: calc(33.33% - 20px);
+  margin: 10px; 
+  text-align: center; 
+  color: white; 
+}
+
+
+.movie-photo {
+  width: 100%; 
+  height: auto; 
+}
+
+
+.movie-title {
+  background-color: yellow; 
+  color: black; 
+  padding: 5px; 
+  margin-top: 5px; 
+}

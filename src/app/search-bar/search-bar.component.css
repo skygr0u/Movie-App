@@ -1,0 +1,24 @@
+
+.search-container {
+  background-color: black; 
+  display: flex; 
+  align-items: center; 
+  justify-content: flex-end; 
+  padding: 10px; 
+}
+
+.search-input {
+  border: 2px solid  #FFD700; 
+  border-radius: 4px; 
+  padding: 10px; 
+  color: white; 
+  background-color: transparent; 
+  margin-left: 10px; 
+  width: 200px; 
+}
+
+.search-icon {
+  color:  #FFD700; 
+  cursor: pointer; 
+  margin-right: 10px; 
+}

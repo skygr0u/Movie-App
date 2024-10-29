@@ -1,0 +1,45 @@
+
+:host {
+  display: flex;
+  justify-content: space-between; 
+  align-items: center; 
+  background-color: #FFD700; 
+  padding: 30px; 
+
+}
+
+
+h1 {
+  margin: 0; 
+  font-size: 30px; 
+  color: black; 
+}
+
+
+button {
+  background-color: black; 
+  color: #FFD700; 
+  border: none; 
+  padding: 10px 20px; 
+  font-size: 16px; 
+  cursor: pointer; 
+  border-radius: 5px; 
+  display: flex;
+  align-items: center; 
+
+}
+
+
+button i {
+  margin-right: 10px; 
+
+}
+
+
+button:hover {
+  background-color: yellow;
+  color: black;
+  border: 1px solid black;
+  border-radius: 10px;
+
+}

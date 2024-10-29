@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "title": "Inception",
+      "director": "Christopher Nolan",
+      "releaseYear": 2010,
+      "genre": "Science Fiction",
+      "rating": 8.8,
+"photo": "assets/photos/inception.jpg"
+,
+"Overview":"Dominic Cobb is an industrial spy who instead of breaking into a person's home, office, or even computer, gets the information he needs by getting into the person's mind through their dreams"
+    },
+    {
+      "id": 2,
+      "title": "The Godfather",
+      "director": "Francis Ford Coppola",
+      "releaseYear": 1972,
+      "genre": "Crime",
+      "rating": 9.2,
+      "photo":"assets/photos/godfather.jpg",
+      "Overview":"blank"
+    },
+    {
+      "id": 3,
+      "title": "The Equalizer 2",
+      "director": "Antoine Fuqua",
+      "releaseYear": 2018,
+      "genre": "Crime,Action",
+      "rating": 6.2,
+      "photo":"assets/photos/equalizer.jpg",
+      "Overview":"After taking down Pushkin's operations,[a] Robert McCall works as a driver for Lyft and assists the less fortunate with the help of his close friend and former DIA colleague Susan Plummer. "
+    },
+    {
+      "id": 4,
+      "title": "The Meg 2",
+      "director": "Francis Ford Coppola",
+      "releaseYear": 1972,
+      "genre": "Horreur,Action",
+      "rating": 9.2,
+      "photo":"assets/photos/meg2.jpg",
+      "Overview":"blank"
+    },
+    {
+      "id": 5,
+      "title": "The Nun 2",
+      "director": "Michael Chaves",
+      "releaseYear": 2023,
+      "genre": "Horreur",
+      "rating": 5.6,
+      "photo":"assets/photos/thenun2.jpg",
+      "Overview":"In 1956, Father Noiret and his altar boy Jacques perform their daily chores in their church in Tarascon, France. While investigating a disturbance, Noiret is raised into the air, set on fire, and burned to death before a terrified Jacques."
+    }
+  ]

@@ -1,0 +1,9 @@
+<div class="search-container">
+    <i class="fa fa-search search-icon"></i>
+    <input type="text" placeholder="Movie Title" 
+           class="search-input" 
+           (keypress)="onKeyPress($event)" 
+           (keyup.backspace)="onBackspace()"
+           [(ngModel)]="searchTitle">
+  </div>
+  
